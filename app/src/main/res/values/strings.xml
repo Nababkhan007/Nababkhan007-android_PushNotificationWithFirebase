@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="channel_id">PushNotification</string>
+    <string name="channel_name">Example Channel</string>
+    <string name="channel_description">It\'s an example Channel</string>
+    <string name="greetings_message">Hey, how are today?</string>
+    <string name="welcome_push_notification">Welcome to Push Notification Application!</string>
+</resources>
